@@ -5,7 +5,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 -  **Working :** Mar-us Teknofest Team 💪
--  **Learning :** Embedded Systems ⚙️ | Control Theory 🚀 | Cyber Security 💻
+-  **Learning :** Embedded Systems ⚙️ | Control Theory 🚀 
 -  **Hobbies :** Games 🎮 | Music 🎵
 -  **Ask me about :** Anything!, I'm happy to help if i can. ♥️
 
