@@ -1,16 +1,16 @@
 <h2 align="left">Furkan Kuyumcu 👨‍💻</h2>
 
-###
-
-<p align="left"><br>
-About<br>-  Working : Mar-us Teknofest Team 💪<br>-  Learning : Embedded Systems ⚙️ | Control Theory 🚀 <br>-  Hobbies : Games 🎮 | Music 🎵<br>-  Ask me about : Anything!, I'm happy to help if i can. ♥️<br><br></p>
+### About
+-  **Working :** Mar-us Teknofest Team 💪
+-  **Learning :** Embedded Systems ⚙️ | Control Theory 🚀 
+-  **Hobbies :** Games 🎮 | Music 🎵
+-  **Ask me about :** Anything!, I'm happy to help if i can. ♥️
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furkankuyumcu54&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=furkankuyumcu54&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=furkankuyumcu54&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=furkankuyumcu54&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=furkankuyumcu54&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ###
@@ -38,11 +38,5 @@ About<br>-  Working : Mar-us Teknofest Team 💪<br>-  Learning : Embedded Syste
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/furkankuyumcu54/furkankuyumcu54/output/snake.svg" alt="Snake animation" />
 
 ###
