@@ -1,9 +1,9 @@
-<h2 align="left">## Furkan Kuyumcu 👨‍💻</h2>
+<h2 align="left">Furkan Kuyumcu 👨‍💻</h2>
 
 ###
 
-<p align="left">---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------<br>
-### About<br>-  **Working :** Mar-us Teknofest Team 💪<br>-  **Learning :** Embedded Systems ⚙️ | Control Theory 🚀 <br>-  **Hobbies :** Games 🎮 | Music 🎵<br>-  **Ask me about :** Anything!, I'm happy to help if i can. ♥️<br><br>---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<p align="left"><br>
+About<br>-  Working : Mar-us Teknofest Team 💪<br>-  Learning : Embedded Systems ⚙️ | Control Theory 🚀 <br>-  Hobbies : Games 🎮 | Music 🎵<br>-  Ask me about : Anything!, I'm happy to help if i can. ♥️<br><br></p>
 
 ###
 
