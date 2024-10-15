@@ -1,7 +1,7 @@
 <h2 align="left">Furkan Kuyumcu 👨‍💻</h2>
 
 ### About
--  **Working :** Mar-us Teknofest Team 💪
+-  **Working :** Mar-us UAV Team Leader 💪
 -  **Learning :** Embedded Systems ⚙️ | Control Theory 🚀 
 -  **Hobbies :** Games 🎮 | Music 🎵
 -  **Ask me about :** Anything!, I'm happy to help if i can. ♥️
